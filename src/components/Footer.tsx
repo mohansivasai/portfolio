@@ -54,7 +54,7 @@ const Footer = () => {
                 <span>LinkedIn</span>
               </a>
               <a
-                href="mailto:mohan.email@example.com"
+                href="mailto:mohansivasait@gmail.com"
                 className="flex items-center gap-2 text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400"
               >
                 <Mail className="w-5 h-5" />

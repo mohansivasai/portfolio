@@ -9,3 +9,7 @@ html {
 .dark {
   color-scheme: dark;
 }
+
+body {
+  @apply bg-black;
+}
