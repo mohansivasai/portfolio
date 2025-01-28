@@ -15,6 +15,11 @@ const Footer = () => {
                 </a>
               </li>
               <li>
+                <a href="#certifications" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400">
+                  Certifications
+                </a>
+              </li>
+              <li>
                 <a href="#skills" className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400">
                   Skills
                 </a>
@@ -40,14 +45,14 @@ const Footer = () => {
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Connect</h3>
             <div className="space-y-4">
               <a
-                href="#"
+                href="https://github.com/mohansivasai"
                 className="flex items-center gap-2 text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400"
               >
                 <Github className="w-5 h-5" />
                 <span>GitHub</span>
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/mohan-siva-sai-t-66ab5716b/"
                 className="flex items-center gap-2 text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400"
               >
                 <Linkedin className="w-5 h-5" />
@@ -72,7 +77,7 @@ const Footer = () => {
         </div>
         <div className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-700">
           <p className="text-center text-gray-600 dark:text-gray-300">
-            © {new Date().getFullYear()} Mohan K. All rights reserved.
+            © {new Date().getFullYear()} MT. All rights reserved.
           </p>
         </div>
       </div>
