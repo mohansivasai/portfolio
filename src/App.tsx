@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Menu, X, Github, Linkedin, Mail, Download, ChevronDown, Moon, Sun } from 'lucide-react';
 import Hero from './components/Hero';
 import About from './components/About';
+import Certifications from './components/Certifications';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Experience from './components/Experience';
@@ -23,6 +24,7 @@ function App() {
 
   const navItems = [
     { label: 'About', href: '#about' },
+    { label: 'Certifications', href: '#certifications' },
     { label: 'Skills', href: '#skills' },
     { label: 'Projects', href: '#projects' },
     { label: 'Experience', href: '#experience' },
@@ -102,6 +104,7 @@ function App() {
         <main>
           <Hero />
           <About />
+          <Certifications />
           <Skills />
           <Projects />
           <Experience />
