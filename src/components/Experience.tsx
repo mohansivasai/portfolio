@@ -36,8 +36,8 @@ const Experience = () => {
   const experiences = [
     {
       company: 'Capital One',
-      role: 'Senior Full Stack Developer',
-      duration: '2020 - Present',
+      role: 'Software Engineer',
+      duration: 'August 2024 - Present',
       responsibilities: [
         'Developed a hybrid architecture using React and Angular, hosting assets on S3 and serving via NGINX on EC2 with Lua scripting',
         'Built serverless backends (AWS Lambda) integrated with API Gateway',
@@ -48,7 +48,7 @@ const Experience = () => {
     {
       company: 'Mamiye Brothers',
       role: 'Full Stack Developer',
-      duration: '2018 - 2020',
+      duration: 'Feburary 2023 - July 2024',
       responsibilities: [
         'Migrated a Java-based EC2 application to AWS Lambda and TypeScript, optimizing scalability and cost',
         'Implemented real-time synchronization across platforms like NuOrder, Shopify, and Amazon',
