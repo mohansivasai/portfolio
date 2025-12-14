@@ -9,7 +9,7 @@ const About = () => {
         </h2>
         <div className="max-w-3xl mx-auto">
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
-            With over 5 years of experience, I specialize in designing scalable enterprise applications 
+            With 6 plus years of experience, I specialize in designing scalable enterprise applications 
             using modern frameworks and cloud technologies. My journey in technology has been driven 
             by a passion for problem-solving, security, and performance optimization.
           </p>

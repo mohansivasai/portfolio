@@ -12,7 +12,7 @@ const Hero = () => {
               Hi, I'm <span className="text-indigo-600 dark:text-indigo-400">Mohan</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8">
-              A Java Full Stack Developer with 5+ years of experience designing and deploying scalable, cloud-native solutions.
+              A Java Full Stack Developer with 6+ years of experience designing and deploying scalable, cloud-native solutions.
             </p>
             <div className="flex gap-4">
               <a
